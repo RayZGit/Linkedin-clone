@@ -23,6 +23,7 @@ function Header() {
         <HeaderOptions Icon={SupervisorAccount} title='My Network'/>
         <HeaderOptions Icon={ChatIcon} title='Chat'/>
         <HeaderOptions Icon={NotificationsIcon} title='Notication' />
+        <HeaderOptions avatar="https://i.redd.it/ou5acqlwmg621.jpg" title="Ray Zhou" />
       </div>
     </div> 
 

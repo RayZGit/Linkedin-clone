@@ -6,6 +6,15 @@
     margin-right: 20px;
     cursor: pointer;
 }
+.headerOptions_title {
+    font-size: 12px;
+    font-weight: 400;
+}
+.headerOptions_icon {
+    object-fit: contain;
+    height: 30px !important;
+    width: 30px !important;
+}
 
 .headerOptions:hover {
     color: black;
